@@ -1,3 +1,5 @@
+-- url: https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial
+
 -- 1 Bigger than Russia
 SELECT name
   FROM world

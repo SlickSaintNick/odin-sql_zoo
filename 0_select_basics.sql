@@ -1,3 +1,5 @@
+-- url: https://sqlzoo.net/wiki/SELECT_basics
+
 -- 1
 SELECT population 
   FROM world

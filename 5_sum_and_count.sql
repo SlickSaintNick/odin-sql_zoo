@@ -1,3 +1,5 @@
+-- url: https://sqlzoo.net/wiki/SUM_and_COUNT
+
 -- 1 Total world population
 SELECT SUM(population)
   FROM world

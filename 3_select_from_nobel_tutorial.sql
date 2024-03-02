@@ -1,3 +1,5 @@
+-- url: https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial
+
 -- 1 Winners from 1950
 SELECT yr, subject, winner
   FROM nobel

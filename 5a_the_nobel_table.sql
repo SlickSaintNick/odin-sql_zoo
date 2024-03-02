@@ -1,3 +1,5 @@
+-- url: https://sqlzoo.net/wiki/The_nobel_table_can_be_used_to_practice_more_SUM_and_COUNT_functions.
+
 -- 1 Show the total number of prizes awarded.
 SELECT COUNT(winner) 
   FROM nobel;
